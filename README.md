@@ -1,6 +1,6 @@
 ## Olá sou Marcus Vinicius ##
-- 🔭 Estou trabalho com javascript
-- 🌱 Atualmente estagiando na Dell Lead
+- 🔭 Trabalho com JavaScript, Python
+- 🌱 Atualmente estou cursando Progamação
 - ✉️ Meu Email é: marcusv2902@gmail.com
 
 <div align="center">
